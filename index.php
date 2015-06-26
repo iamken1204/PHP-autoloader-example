@@ -6,7 +6,7 @@ use row\Row;
 $t = new Test();
 $t->yell();
 
-echo "<BR>";
+echo "<BR>\n";
 
 $r = new Row();
 $r->yell();
