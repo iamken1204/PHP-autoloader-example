@@ -1,3 +1,3 @@
 # PHP-autoloader-example
 
-An simple practice of PHP namespace autoloader implementation.
+A simple practice of PHP namespace autoloader implementation.
