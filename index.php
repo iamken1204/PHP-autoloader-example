@@ -10,5 +10,3 @@ echo "<BR>";
 
 $r = new Row();
 $r->yell();
-
-// echo 'aa';
