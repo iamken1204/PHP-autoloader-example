@@ -3,6 +3,9 @@
 error_reporting(E_ALL);
 ini_set("display_errors", 1);
 
+/**
+ * @see http://justericgg.logdown.com/posts/196891-php-series-autoload
+ */
 function autoload($className)
 {
     $className = ltrim($className, '\\');
